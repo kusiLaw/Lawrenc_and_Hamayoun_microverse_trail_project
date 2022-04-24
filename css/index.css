@@ -1,0 +1,44 @@
+#welcome-section{
+    text-align: center;
+}
+
+#navbar{
+    background-color: #be3144;
+    font-size: 20px;
+    color: white;
+    padding:14px 0;
+
+
+}
+.nav-list{
+    color: white;
+
+}
+
+#welcome-section{
+    background-color: #27282a;
+    margin-top: -45px;
+    height: 100vh;
+    width: 100%;
+   
+    overflow: auto;
+  
+    padding-top: 18%; 
+   
+}
+.feature{
+    font-size: 80px;
+    font-weight: 600;
+}
+.feature2{
+    font-size: 40px;
+   font-style: italic;
+}
+.projects{
+    border: 1px solid red;
+}
+.project-img{
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+}
